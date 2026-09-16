@@ -135,3 +135,17 @@ button:hover{
 button a:hover{
     color: rgb(255, 155, 73);
 }
+
+.rede{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+.rede i{
+    font-size: 30px;
+    color: white;
+}
+.rede i:hover{
+    color: rgba(255, 255, 255, 0.459);
+}
